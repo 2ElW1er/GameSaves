@@ -1,0 +1,56 @@
+KLEI     1 {
+	"dststeam":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-hamlet.tex",
+		"image_version":"18",
+		"link_title":"More Info!",
+		"link_url":"http://bit.ly/2RIK6dg"
+	},
+	"swsteam":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-hamlet.tex",
+		"image_version":"18",
+		"link_title":"More Info!",
+		"link_url":"http://bit.ly/2CAWWpS"
+	},	
+	"rogsteam":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-hamlet.tex",
+		"image_version":"18",
+		"link_title":"More Info!",
+		"link_url":"http://bit.ly/2QKfBCN"
+	},
+	"hamletsteam":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-hamlet.tex",
+		"image_version":"18",
+		"link_title":"More Info!",
+		"link_url":"http://bit.ly/2QKfBCN"
+	},
+	"hamletstandalone":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-hamlet.tex",
+		"image_version":"18",
+		"link_title":"More Info!",
+		"link_url":"http://bit.ly/2QKfBCN"
+	},
+	"steam":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-hamlet.tex",
+		"image_version":"18",
+		"link_title":"More Info!",
+		"link_url":"http://bit.ly/2CCcVDU"
+	},
+	"swstandalone":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-hamlet.tex",
+		"image_version":"18",
+		"link_title":"More Info!",
+		"link_url":"http://bit.ly/2CFUYVc"
+	},
+	"rogstandalone":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-hamlet.tex",
+		"image_version":"18",
+		"link_title":"More Info!",
+		"link_url":"http://bit.ly/2C7ltSo"
+	},
+	"standalone":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-hamlet.tex",
+		"image_version":"18",
+		"link_title":"More Info!",
+		"link_url":"http://bit.ly/2Eepwik"
+	}
+}
